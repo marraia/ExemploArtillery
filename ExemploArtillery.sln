@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artillery.API", "Artillery.API\Artillery.API.csproj", "{3A593AFB-AF20-4FF1-858D-2CEC72C27795}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{95732708-3688-4A34-8C67-6E40D3C9C3D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artillery.Domain", "Artillery.Domain\Artillery.Domain.csproj", "{314EB74D-49B0-45DB-971D-73C255FAEED0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artillery.Infrastructure", "Artillery.Infrastructure\Artillery.Infrastructure.csproj", "{23BE5507-D57C-465F-B1A4-02E7DA7B0786}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artillery.Application", "Artillery.Application\Artillery.Application.csproj", "{E3B8E2A6-63C2-4307-83E6-D2D833194CCF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "artillery-tests", "artillery-tests", "{5CF6876D-1BE3-423C-9E4C-8073DA17E98E}"
+	ProjectSection(SolutionItems) = preProject
+		send-person.yml = send-person.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A593AFB-AF20-4FF1-858D-2CEC72C27795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A593AFB-AF20-4FF1-858D-2CEC72C27795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A593AFB-AF20-4FF1-858D-2CEC72C27795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A593AFB-AF20-4FF1-858D-2CEC72C27795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95732708-3688-4A34-8C67-6E40D3C9C3D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95732708-3688-4A34-8C67-6E40D3C9C3D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95732708-3688-4A34-8C67-6E40D3C9C3D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95732708-3688-4A34-8C67-6E40D3C9C3D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{314EB74D-49B0-45DB-971D-73C255FAEED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314EB74D-49B0-45DB-971D-73C255FAEED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314EB74D-49B0-45DB-971D-73C255FAEED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314EB74D-49B0-45DB-971D-73C255FAEED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23BE5507-D57C-465F-B1A4-02E7DA7B0786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23BE5507-D57C-465F-B1A4-02E7DA7B0786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23BE5507-D57C-465F-B1A4-02E7DA7B0786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23BE5507-D57C-465F-B1A4-02E7DA7B0786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B8E2A6-63C2-4307-83E6-D2D833194CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B8E2A6-63C2-4307-83E6-D2D833194CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B8E2A6-63C2-4307-83E6-D2D833194CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B8E2A6-63C2-4307-83E6-D2D833194CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41A1C784-30FA-4BA6-80FC-1362A81B4910}
+	EndGlobalSection
+EndGlobal

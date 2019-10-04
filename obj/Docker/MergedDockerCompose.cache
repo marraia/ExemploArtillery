@@ -1,0 +1,19 @@
+services:
+  artillery.api:
+    build:
+      context: C:\_estudos\ExemploArtillery
+      dockerfile: Artillery.API/Dockerfile
+    depends_on:
+    - nosql.server
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: artilleryapi
+    ports:
+    - published: 5555
+      target: 80
+  nosql.server:
+    image: mongo
+    ports:
+    - published: 17017
+      target: 27017
+version: '3.4'

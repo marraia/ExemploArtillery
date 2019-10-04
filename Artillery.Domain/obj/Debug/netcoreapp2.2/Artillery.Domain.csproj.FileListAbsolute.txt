@@ -1,0 +1,8 @@
+C:\_estudos\ExemploArtillery\Artillery.Domain\bin\Debug\netcoreapp2.2\Artillery.Domain.deps.json
+C:\_estudos\ExemploArtillery\Artillery.Domain\bin\Debug\netcoreapp2.2\Artillery.Domain.dll
+C:\_estudos\ExemploArtillery\Artillery.Domain\bin\Debug\netcoreapp2.2\Artillery.Domain.pdb
+C:\_estudos\ExemploArtillery\Artillery.Domain\obj\Debug\netcoreapp2.2\Artillery.Domain.csproj.CoreCompileInputs.cache
+C:\_estudos\ExemploArtillery\Artillery.Domain\obj\Debug\netcoreapp2.2\Artillery.Domain.AssemblyInfoInputs.cache
+C:\_estudos\ExemploArtillery\Artillery.Domain\obj\Debug\netcoreapp2.2\Artillery.Domain.AssemblyInfo.cs
+C:\_estudos\ExemploArtillery\Artillery.Domain\obj\Debug\netcoreapp2.2\Artillery.Domain.dll
+C:\_estudos\ExemploArtillery\Artillery.Domain\obj\Debug\netcoreapp2.2\Artillery.Domain.pdb

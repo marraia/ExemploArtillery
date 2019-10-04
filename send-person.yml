@@ -1,0 +1,13 @@
+config:
+  target: "http://localhost:5555/api"
+  phases:
+    - duration: 60
+      arrivalRate: 210
+scenarios:
+	- flow:
+        - post:
+            url: "/person"
+            json:
+              name: "Fernando"
+              cpf: "fernando@fernando.com.br"
+			  birthday: "2019-10-03T17:31:08.383Z" 

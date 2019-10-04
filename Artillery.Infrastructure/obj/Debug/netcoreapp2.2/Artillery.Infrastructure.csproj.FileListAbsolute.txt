@@ -1,0 +1,12 @@
+C:\_estudos\ExemploArtillery\Artillery.Infrastructure\bin\Debug\netcoreapp2.2\Artillery.Infrastructure.deps.json
+C:\_estudos\ExemploArtillery\Artillery.Infrastructure\bin\Debug\netcoreapp2.2\Artillery.Infrastructure.dll
+C:\_estudos\ExemploArtillery\Artillery.Infrastructure\bin\Debug\netcoreapp2.2\Artillery.Infrastructure.pdb
+C:\_estudos\ExemploArtillery\Artillery.Infrastructure\bin\Debug\netcoreapp2.2\Artillery.Domain.dll
+C:\_estudos\ExemploArtillery\Artillery.Infrastructure\bin\Debug\netcoreapp2.2\Artillery.Domain.pdb
+C:\_estudos\ExemploArtillery\Artillery.Infrastructure\obj\Debug\netcoreapp2.2\Artillery.Infrastructure.csprojAssemblyReference.cache
+C:\_estudos\ExemploArtillery\Artillery.Infrastructure\obj\Debug\netcoreapp2.2\Artillery.Infrastructure.csproj.CoreCompileInputs.cache
+C:\_estudos\ExemploArtillery\Artillery.Infrastructure\obj\Debug\netcoreapp2.2\Artillery.Infrastructure.AssemblyInfoInputs.cache
+C:\_estudos\ExemploArtillery\Artillery.Infrastructure\obj\Debug\netcoreapp2.2\Artillery.Infrastructure.AssemblyInfo.cs
+C:\_estudos\ExemploArtillery\Artillery.Infrastructure\obj\Debug\netcoreapp2.2\Artillery.Infrastructure.csproj.CopyComplete
+C:\_estudos\ExemploArtillery\Artillery.Infrastructure\obj\Debug\netcoreapp2.2\Artillery.Infrastructure.dll
+C:\_estudos\ExemploArtillery\Artillery.Infrastructure\obj\Debug\netcoreapp2.2\Artillery.Infrastructure.pdb

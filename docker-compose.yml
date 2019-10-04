@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  artillery.api:
+    image: artilleryapi
+    build:
+      context: .
+      dockerfile: Artillery.API/Dockerfile
+    depends_on:
+      - nosql.server
+
+  nosql.server:
+    image: mongo
+    ports:
+      - "17017:27017"
